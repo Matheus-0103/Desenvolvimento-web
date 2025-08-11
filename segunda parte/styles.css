@@ -1,4 +1,20 @@
-h1{
+body {
+    text-align: center;
+    background-color: black;
     color: white;
-    background-color: blue;
+}
+
+
+h1 {
+    color: white;
+}
+
+fieldset {
+    background-color: white;
+    color: black;
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: auto;
+    align-items: center;
 }
