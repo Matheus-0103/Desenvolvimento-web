@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1{
+    color: black;
+}
+
+button{
+    background-color: green;
+    color: white;
+}
+
+button:hover{
+    background-color: black;
+}
+
+input[type="email"]:invalid{
+    border: 2px solid red;
+}
+
+input[type="email"]
+input[type="text"]
+input[type="password"]
+input[type="number"]
+input[type="user"]{
+    margin: 10px 20px;
+}
