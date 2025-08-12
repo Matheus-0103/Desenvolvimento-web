@@ -25,29 +25,36 @@ input[type="email"]:invalid{
 
 .forms-nom{
     padding: 10px 20px;
+    border-radius: 3px;
 }
 
 .forms-sobr{
     padding: 10px 20px;
+    border-radius: 3px;
 }
 
 .forms-pass{
     padding: 10px 20px;
+    border-radius: 3px;
 }
 
 .forms-email{
     padding: 10px 20px;
+    border-radius: 3px;
 }
 
 .forms-matri{
     padding: 10px 20px;
+    border-radius: 3px;
 }
 
 .forms-user{
     padding: 10px 20px;
+    border-radius: 3px;
 }
 
 .forms-passw{
     padding: 10px 20px;
+    border-radius: 3px;
 }
 
