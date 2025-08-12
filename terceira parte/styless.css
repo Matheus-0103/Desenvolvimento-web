@@ -22,10 +22,32 @@ input[type="email"]:invalid{
     border: 2px solid red;
 }
 
-input[type="email"]
-input[type="text"]
-input[type="password"]
-input[type="number"]
-input[type="user"]{
-    margin: 10px 20px;
+
+.forms-nom{
+    padding: 10px 20px;
 }
+
+.forms-sobr{
+    padding: 10px 20px;
+}
+
+.forms-pass{
+    padding: 10px 20px;
+}
+
+.forms-email{
+    padding: 10px 20px;
+}
+
+.forms-matri{
+    padding: 10px 20px;
+}
+
+.forms-user{
+    padding: 10px 20px;
+}
+
+.forms-passw{
+    padding: 10px 20px;
+}
+
